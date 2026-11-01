@@ -129,4 +129,5 @@ Probes the stability of the fit with respect to inter-instrument energy-scale sy
 - or *Machine-learning representation of physical models* (Custom models, ML surrogate model training), prepared by Quentin Remy (IRAP, Toulouse) and  Lea Heckmann (APC, Paris). 
 
 [Link to the Naima surrogate notebook](NaimaSurrogate.ipynb)
+
 [Link to the pytorch power-law notebook](PyTorchEmulator)
