@@ -42,7 +42,7 @@ modeling/fitting, confidence calculation, flux points extraction.
 
 Prepared by Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-- Notebook : xxx
+- Notebook : [directory](./SpectralAnalysis)
 
 <a name="spec"></a>
 ## Session of Wednesday, 16h15/18h
@@ -79,7 +79,7 @@ Prepared by Laura Olivera-Nieto (APIA, Amsterdam). Location : room Denisse, Obse
 
 Prepared by Lea Heckmann (APC, Paris). Location : room Denisse, Observatoire de Paris
 
-- Notebook : xxx
+- Notebook : [directory](./Multi-instrumentJointAnalysis)
 
 <a name="syst"></a>
 ## Session of Thursday, 16h15/18h
