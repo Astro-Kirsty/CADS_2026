@@ -84,7 +84,8 @@ Probes the stability of the fit with respect to inter-instrument energy-scale sy
  How sensitive are the source parameters to uncertainties in the instrument response, and other model components?
  
  Propagates IRFs-related systematic uncertainties by repeating the fit with alternative IRFs and marginalising over the results. 
-- Notebook : xxx
+
+[Link to the notebook](IRF_systematics_fixed_counts.ipynb)
 
 <a name="project-1"></a>
 ## Session of Wednesday, 16h15/18h
