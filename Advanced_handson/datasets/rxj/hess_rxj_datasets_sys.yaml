@@ -1,0 +1,9 @@
+datasets:
+-   name: hess_rxj_downsampled_stacked
+    type: MapDataset
+    filename: hess_rxj_downsampled_stacked.fits
+metadata:
+    creator: Gammapy 2.0.dev3532+gd26bfaac6
+    date: '2026-11-02T14:01:12.611112'
+    origin: null
+checksum: 9b1bef4ea3a189c1c0b1d8ed0ff7a9a0
