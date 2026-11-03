@@ -58,7 +58,7 @@ By S. Gabici (APC, Paris). Location: Observatoire de Paris, 77 Av. Denfert Roche
 ## 5. Tuesday 3 Nov. 2026 - 11h-12h30 : Detection and reconstruction of extensive air showers
 By F. Bradascio (CEA Paris-Saclay). Location: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
-- Slides : xx
+- Slides : https://github.com/bkhelifi/CADS_2026/blob/main/Lectures/gamma_detectors_cads_school_2026.pdf
 
 <a name="stats_one"></a>
 ## 6. Tuesday 3 Nov. 2026 - 14h-15h30 : From detection to high-level reconstruction - A statistical view on gamma-ray sources
