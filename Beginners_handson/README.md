@@ -33,7 +33,7 @@ Prepared by Lea Heckmann (APC, Paris. Location : room CIAS, Observatoire de Meud
 
 Prepared by Tomas Bylund (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-- Notebook : xxx
+- Notebook : [directory](./2.%20General)
 
 <a name="tdana"></a>
 ## Session of Wednesday, 14h00/15h45
