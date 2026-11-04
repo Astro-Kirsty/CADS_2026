@@ -25,7 +25,7 @@ Locations:
 
 Prepared by Lea Heckmann (APC, Paris. Location : room CIAS, Observatoire de Meudon
 
-- Link to the presentation : [slides](.CADS_GammapyIntro_2026.pdf)
+- Link to the presentation : [slides](./CADS_GammapyIntro_2026.pdf)
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
