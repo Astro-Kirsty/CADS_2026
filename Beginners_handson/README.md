@@ -25,7 +25,7 @@ Locations:
 
 Prepared by Lea Heckmann (APC, Paris. Location : room CIAS, Observatoire de Meudon
 
-- Link to the presentation : xxx
+- Link to the presentation : [slides](./CADS_GammapyIntro_2026.pdf)
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
@@ -70,7 +70,7 @@ Prepared by Marie-Sophie Carrasco (APC, Paris). Location : room Denisse, Observa
 
 Prepared by Laura Olivera-Nieto (APIA, Amsterdam). Location : room Denisse, Observatoire de Paris
 
-- Notebook : xxx
+- Notebook : [directory](./6.Simulations/)
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45

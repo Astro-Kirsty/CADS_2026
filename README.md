@@ -19,7 +19,7 @@ Locations:
 5. [Tuesday 3 Nov. 2026 - 11h-12h30 : Detection and reconstruction of extensive air showers](#reco)
 6. [Tuesday 3 Nov. 2026 - 14h-15h30 : From detection to high-level reconstruction - A statistical view on gamma-ray sources](#stats_one)
 7. [Tuesday 3 Nov. 2026 - 16h-17h30 : From detection to high-level reconstruction - A statistical view on gamma-ray sources (2)](#stats_two)
-8. [Wed. 4 and Thur. 5 Nov. 2026 (9h-18h) : Gammapy hands-on sessions](#hands-on)
+8. [Wed. 4 and Thur. 5 Nov. 2026 (9h30-18h30) : Gammapy hands-on sessions](#hands-on)
 9. [Fri. 6 Nov. 2026  (9h-12h) : User session](#user)
 10. [Legal notice](#notice)
 
@@ -40,43 +40,42 @@ By S. Gabici (APC, Paris). Location: Observatoire de Paris, 77 Av. Denfert Roche
 
 Location: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
-- Slides : xxx
+- Slides : (CADS2026_SGabici_PhotonProduction.pdf)[./Lectures/CADS2026_SGabici_PhotonProduction.pdf]
 
 <a name="extragal"></a>
 ## 3. Monday 2 Nov. 2026 - 16h-17h30 : ExtraGalactic sources
 By M. Cerruti (APC, Paris). Location: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
-- Slides : xx
+- Slides : (Cerruti_Egal_2026.pdf)[./Lectures/Cerruti_Egal_2026.pdf]
 
 <a name="gal"></a>
 ## 4. Tuesday 3 Nov. 2026 - 9h-10h30 : Galactic sources
 By S. Gabici (APC, Paris). Location: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
-- Slides : xx
+- Slides : (CADS2026_SGabici_GalacticSources.pdf)[./Lectures/CADS2026_SGabici_GalacticSources.pdf]
 
 <a name="reco"></a>
 ## 5. Tuesday 3 Nov. 2026 - 11h-12h30 : Detection and reconstruction of extensive air showers
 By F. Bradascio (CEA Paris-Saclay). Location: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
-- Slides : https://github.com/bkhelifi/CADS_2026/blob/main/Lectures/gamma_detectors_cads_school_2026.pdf
+- Slides : [gamma_detectors_cads_school_2026.pdf](./Lectures/gamma_detectors_cads_school_2026.pdf)
 
 <a name="stats_one"></a>
 ## 6. Tuesday 3 Nov. 2026 - 14h-15h30 : From detection to high-level reconstruction - A statistical view on gamma-ray sources
 By J. Biteau (IJCLab, Paris-Saclay University). Location: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
-- slides :  xx
-- material page : xx
+- slides :  [CADS_Statistics_2026.pdf](./Lectures/CADS_Statistics_2026.pdf)
+- material page : [CADS_Statistics_supporting_material_NPAC.pdf](./Lectures/CADS_Statistics_supporting_material_NPAC.pdf)
 
 <a name="stats_two"></a>
 ## 7. Tuesday 3 Nov. 2026 - 16h-17h30 : From detection to high-level reconstruction - A statistical view on gamma-ray sources (2)
 By J. Biteau (IJCLab, Paris-Saclay University). Location: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
-- slides :  xx
-- material page : xx
+- slides :  see above
 
 
 <a name="hands-on"></a>
-## 8. Wed. 4 and Thur. 5 Nov. 2026 (9h-18h) : Gammapy hands-on sessions
+## 8. Wed. 4 and Thur. 5 Nov. 2026 (9h30-18h30) : Gammapy hands-on sessions
 Locations: 
 - Wednesday: Salle CIAS, Observatoire de Meudon ([OpenStreeMap](https://www.openstreetmap.org/note/new?lat=48.805069&lon=2.230761#map=17/48.805092/2.231694&layers=N))
 - Thursday: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris

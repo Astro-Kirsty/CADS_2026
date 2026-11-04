@@ -48,7 +48,7 @@ observation handling, IRFs, safe mask, exclusion masks, background fitting, diff
 ### Joint analysis
 TS and significance maps, fitting
 
-[Link to the notebook](3a_joint_analysis_ts_maps)
+[Link to the notebook](3a_joint_analysis_ts_maps.ipynb)
 
 <a name="sys"></a>
 ## Session of Wednesday, 14h00/15h45
@@ -118,9 +118,21 @@ Probes the stability of the fit with respect to inter-instrument energy-scale sy
 
 <a name="gamera"></a>
 ## Session of Thursday, 14h00/15h45
-**GAMERA** : adjust data with a physically-motivated modeling library. Made by Laura Olivera-Nieto (APIA, Amsterdam). Location : room Danjon, Observatoire de Paris
+**GAMERA** : fitting physical models to data using the modeling library [GAMERA](https://libgamera.github.io/GAMERA/). Made by Laura Olivera-Nieto (APIA, Amsterdam). Location : room Danjon, Observatoire de Paris
 
-- Notebooks : xxx
+### GAMERA basics
+Set up particle populations and evolve them under different scenarios to obtain the predicted emission
+
+[Link to the notebook](./7.GAMERA/1-GAMERA_basics.ipynb)
+
+### Intefacing with Gammapy
+Turning our GAMERA function into a Gammapy `SpectralModel` and fitting it to counts-level data.
+
+[Link to the notebook](./7.GAMERA/2-GAMERA_fits.ipynb)
+
+The demonstration notebooks use models for which the physical conditions do not change with time.
+The exercises expand this setting to models for which the input parameters are time-dependent
+
 
 <a name="project-2"></a>
 ## Session of Thursday, 16h15/18h
