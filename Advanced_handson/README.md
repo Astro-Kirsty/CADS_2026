@@ -48,7 +48,7 @@ observation handling, IRFs, safe mask, exclusion masks, background fitting, diff
 ### Joint analysis
 TS and significance maps, fitting
 
-[Link to the notebook](3a_joint_analysis_ts_maps)
+[Link to the notebook](3a_joint_analysis_ts_maps.ipynb)
 
 <a name="sys"></a>
 ## Session of Wednesday, 14h00/15h45
