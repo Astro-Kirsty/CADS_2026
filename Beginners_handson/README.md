@@ -70,7 +70,7 @@ Prepared by Marie-Sophie Carrasco (APC, Paris). Location : room Denisse, Observa
 
 Prepared by Laura Olivera-Nieto (APIA, Amsterdam). Location : room Denisse, Observatoire de Paris
 
-- Notebook : xxx
+- Notebook : [directory](./6.Simulations/)
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45
